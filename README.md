@@ -1,5 +1,6 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
+[![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
 
 # n8n: Your Universal Workflow Automation Tool
 
@@ -38,6 +39,7 @@ Imagine you want to receive a Slack notification every time a new lead is captur
 This entire workflow can be built in n8n in just a few minutes, with no code required.
 
 n8n is the ideal solution for anyone seeking a powerful, flexible, and affordable tool to automate routine tasks and optimize business processes. Get started today and discover a world of limitless automation possibilities!
-# 
+#
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
+[![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
