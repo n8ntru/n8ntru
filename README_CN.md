@@ -1,6 +1,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
 [![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
+[![العربية](https://img.shields.io/badge/Language-العربية-green)](README_AR.md)
 
 # n8n: 您的通用工作流程自动化工具
 
@@ -43,3 +44,4 @@ n8n 是一个功能强大的开源工作流程自动化平台。它使您能够�
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
 [![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
+[![العربية](https://img.shields.io/badge/Language-العربية-green)](README_AR.md)
