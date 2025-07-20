@@ -1,5 +1,5 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Русский](https://img.shields.io/badge/Language-Русский-lightgrey)](README_RU.md)
+[![Русский](https://img.shields.io/badge/Language-Русский-red)](README_RU.md)
 
 # n8n: Your Universal Workflow Automation Tool
 
