@@ -1,6 +1,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
 [![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
+[![العربية](https://img.shields.io/badge/Language-العربية-green)](README_AR.md)
 
 # n8n: Ваш универсальный инструмент для автоматизации рабочих процессов
 
@@ -43,3 +44,4 @@ n8n — это идеальное решение для тех, кто ищет 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
 [![中文](https://img.shields.io/badge/Language-中文-purple)](README_CN.md)
+[![العربية](https://img.shields.io/badge/Language-العربية-green)](README_AR.md)
