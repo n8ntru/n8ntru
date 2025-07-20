@@ -1,5 +1,5 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Русский](https://img.shields.io/badge/Language-Русский-red)](README_RU.md)
+[![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
 
 # n8n: Your Universal Workflow Automation Tool
 
@@ -40,4 +40,4 @@ This entire workflow can be built in n8n in just a few minutes, with no code req
 n8n is the ideal solution for anyone seeking a powerful, flexible, and affordable tool to automate routine tasks and optimize business processes. Get started today and discover a world of limitless automation possibilities!
 # 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Русский](https://img.shields.io/badge/Language-Русский-red)](README_RU.md)
+[![Русский](https://img.shields.io/badge/Язык-Русский-red)](README_RU.md)
